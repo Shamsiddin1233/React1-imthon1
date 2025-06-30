@@ -1,0 +1,46 @@
+.Bg2 {
+  width: 100%;
+  height: 667px;
+  background: url("../assets/img20.png");
+  color: white;
+}
+.Kom {
+  width: 100%;
+  height: 667px;
+  background: rgb(7, 7, 7, 0.5);
+}
+.Kom-card {
+  display: flex;
+  justify-content: center;
+}
+.Kom-h2 {
+  width: 280px;
+  border-bottom: 5px solid #c53720;
+  text-align: center;
+  font-size: 28px;
+  margin-top: 88px;
+}
+.Kom-but {
+  padding: 10px 35px;
+  border: 4px solid #c53720;
+  background: none;
+  color: white;
+  font-size: 14px;
+  margin-top: 28px;
+}
+.Kom-box1 {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-top: 85px;
+}
+.Com-text {
+  width: 744px;
+  height: 255px;
+  background: rgb(7, 7, 7, 0.6);
+  border: 5px solid #c53720;
+  padding: 32px;
+}
+.Kom-box1 > img {
+  border: 4px solid #c53720;
+}

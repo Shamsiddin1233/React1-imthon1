@@ -1,0 +1,155 @@
+.Korzina-text {
+  width: 100%;
+  height: 52px;
+  display: flex;
+  padding: 0 200px;
+  align-items: center;
+}
+.Korzina-text > h3 {
+  font-size: 12px;
+  color: #c53720;
+}
+.Korzina-text > p {
+  font-size: 12px;
+  color: #1d1d1d;
+}
+.Korzina {
+  width: 100%;
+  height: 994px;
+  background: #ededed;
+  padding: 0 200px;
+}
+.Korzina > h1 {
+  padding-top: 88px;
+  padding-bottom: 36px;
+}
+.K-cards {
+  width: 1128px;
+  height: 718px;
+}
+.Kcard1 {
+  width: 100%;
+  height: 250px;
+  padding: 40px 32px;
+  display: flex;
+  align-items: center;
+  border: 5px solid gray;
+}
+.Kbox1 {
+  margin-left: 30px;
+}
+.Kbox1 > button {
+  padding: 10px 30px;
+  color: white;
+  background: #3cc051;
+  border: none;
+  font-size: 10px;
+}
+.Kbox2 {
+  margin-left: 100px;
+}
+.Kbox2 > h2 {
+  font-size: 32px;
+}
+.Kbox2 > del {
+  font-size: 20px;
+  font-weight: 700;
+  color: #a5a5a5;
+}
+
+.Buttons {
+  margin-left: 50px;
+}
+.Kbutton1 {
+  padding: 10px 15px;
+  background: none;
+  border: 3px solid gray;
+  color: gray;
+}
+.Kbutton2 {
+  padding: 10px 50px;
+  background: none;
+  border: 3px solid gray;
+  color: gray;
+}
+.Kcard1 > h1 {
+  margin-left: 50px;
+}
+.Kcard1 {
+  position: relative;
+  border-bottom: none;
+  background: white;
+}
+.Kbox1 > h2 {
+  color: #c53720;
+  font-weight: 500;
+}
+
+.img36 {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+.Kcard3 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 38px 50px;
+  border: 5px solid gray;
+  background: white;
+}
+.Kcard3 > div {
+  display: flex;
+  gap: 50px;
+}
+.Kcard3 > button {
+  padding: 10px 25px;
+  border: #c53720 5px solid;
+  background: none;
+  color: #c53720;
+  font-weight: 700;
+}
+.Kcard3 h2 {
+  color: gray;
+}
+.Kcard4 {
+  width: 100%;
+  height: 120px;
+  border: 5px solid gray;
+  padding: 38px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: none;
+  background: white;
+}
+.Kcard4 > div {
+  display: flex;
+  gap: 28px;
+}
+.Kcard4 > button {
+  padding: 10px 25px;
+  border: #c53720 5px solid;
+  background: none;
+  color: #c53720;
+  font-weight: 700;
+}
+.Kbutton4 {
+  padding: 10px 25px;
+  border: #c53720 5px solid;
+  background: none;
+  color: #c53720;
+  font-weight: 700;
+}
+.Kbutton3 {
+  padding: 10px 25px;
+  border: black 5px solid;
+  background: none;
+  font-weight: 700;
+}
+.Kimg25 {
+  margin-left: 110%;
+  margin-top: -40px;
+}

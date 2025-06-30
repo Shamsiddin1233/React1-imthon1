@@ -1,0 +1,201 @@
+.Usluga {
+  width: 100%;
+  height: 1100px;
+  color: white;
+  background: rgb(7, 7, 7, 0.9);
+  /* text-align: center; */
+}
+.Bg {
+  background: url("../assets/img16.png");
+}
+.Usluga-h1 > h1 {
+  width: 170px;
+  font-size: 36px;
+  font-weight: 700;
+  margin-top: 90px;
+  margin-bottom: 35px;
+  border-bottom: 5px solid #c53720;
+}
+.Usluga > p {
+  text-align: center;
+}
+.Usluga-h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.Usluga > p {
+  font-size: 24px;
+  color: #ffffff;
+}
+.card10 {
+  width: 605px;
+  height: 200px;
+  background: linear-gradient(135deg, #841f0f 1%, #c5372000);
+  position: relative;
+  left: 150px;
+  margin-top: 75px;
+}
+.card20 {
+  width: 605px;
+  height: 200px;
+  position: relative;
+  left: 150px;
+  margin-top: 50px;
+}
+.ram1 {
+  position: absolute;
+  z-index: 1;
+  left: 40px;
+  top: 40px;
+}
+.img17 {
+  position: absolute;
+  z-index: 2;
+  left: 55px;
+  top: 50px;
+}
+.usluga-text {
+  margin-left: 210px;
+  padding-top: 40px;
+}
+.usluga-text > h3 {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.usluga-text > p {
+  font-size: 16px;
+}
+
+.ch {
+  position: absolute;
+  left: 80px;
+  top: 50px;
+  z-index: 1;
+}
+.ak {
+  position: absolute;
+  left: 65px;
+  top: 75px;
+  z-index: 1;
+}
+.ong {
+  position: absolute;
+  left: 80px;
+  top: 130px;
+  z-index: 1;
+}
+.k1 {
+  position: absolute;
+  left: 65px;
+  top: 75px;
+  z-index: 1;
+}
+.k2 {
+  position: absolute;
+  left: 57px;
+  top: 125px;
+  z-index: 1;
+}
+
+.s1 {
+  position: absolute;
+  left: 85px;
+  top: 100px;
+}
+.s2 {
+  position: absolute;
+  left: 92px;
+  top: 90px;
+}
+.s3 {
+  position: absolute;
+  left: 99px;
+  top: 100px;
+}
+.s4 {
+  position: absolute;
+  left: 105px;
+  top: 90px;
+}
+.s5 {
+  position: absolute;
+  left: 111.5px;
+  top: 86px;
+}
+.obyom {
+  display: flex;
+}
+.img18 {
+  position: absolute;
+  left: 310px;
+  top: 95px;
+  z-index: 1;
+}
+.img19 {
+  position: absolute;
+  left: 300px;
+  top: 138px;
+}
+.imgs {
+  position: relative;
+}
+
+.uch1 {
+  position: absolute;
+  left: 650px;
+  top: 100px;
+}
+.uch2 {
+  position: absolute;
+  left: 280px;
+  bottom: 110px;
+}
+.uch3 {
+  position: absolute;
+  left: 600px;
+  bottom: 60px;
+}
+.uch4 {
+  position: absolute;
+  left: 400px;
+  top: 250px;
+}
+.uch5 {
+  position: absolute;
+  left: 680px;
+  bottom: 100px;
+  z-index: 2;
+}
+.Usluga button {
+  padding: 10px 35px;
+  border: 4px solid #c53720;
+  background: none;
+  color: white;
+  font-size: 14px;
+}
+.Usluga > .button {
+  text-align: center;
+}
+.card10::after {
+  content: "";
+  width: 110px;
+  height: 80px;
+  background: rgb(7, 7, 7);
+  position: absolute;
+  rotate: 140deg;
+  right: -45px;
+  bottom: -30px;
+  z-index: 1;
+}
+.card10::before {
+  content: "";
+  width: 110px;
+  height: 80px;
+  background: rgb(7, 7, 7);
+  position: absolute;
+  rotate: 140deg;
+  left: -40px;
+  top: -50px;
+  z-index: 1;
+}

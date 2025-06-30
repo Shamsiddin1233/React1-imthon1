@@ -1,0 +1,115 @@
+.Nov {
+  width: 100%;
+  height: 870px;
+  background: #ededed;
+}
+.Nov-card {
+  display: flex;
+  padding-top: 88px;
+  justify-content: center;
+}
+.Nov-h2 {
+  width: 216px;
+  font-size: 28px;
+  text-align: center;
+  border-bottom: 5px solid #c53720;
+}
+.N-card1 {
+  background: url("../assets/img22.png");
+  background-repeat: no-repeat;
+}
+.N-card {
+  width: 360px;
+  /* height: 422px; */
+}
+.N-card img {
+  width: 360px;
+  height: 284px;
+}
+.Ncard1-text {
+  width: 360px;
+  height: 138px;
+  background: #1d1d1d;
+  margin-top: 222px;
+  padding: 12px 20px;
+}
+.Ncard1-text > p {
+  color: #c53720;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.Ncard1-text > h3 {
+  color: white;
+}
+.Ncard1-text > img {
+  margin-top: 30px;
+  margin-left: 85%;
+}
+.Nov-cards {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-top: 85px;
+}
+
+.Ncard2-text {
+  width: 360px;
+  height: 138px;
+  background: #1d1d1d;
+  margin-top: -4px;
+  padding: 12px 20px;
+}
+.Ncard2-text > p {
+  color: #c53720;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.Ncard2-text > h3 {
+  color: white;
+  margin: 0;
+}
+.Ncard2-text > img {
+  width: 51px;
+  height: 20px;
+  margin-top: 30px;
+  margin-left: 85%;
+}
+
+.Ncard3-text {
+  width: 360px;
+  height: 138px;
+  background: #1d1d1d;
+  margin-top: -4px;
+  padding: 12px 20px;
+}
+.Ncard3-text > p {
+  color: #c53720;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.Ncard3-text > h3 {
+  color: white;
+  margin: 0;
+}
+.Ncard3-text > img {
+  width: 51px;
+  height: 20px;
+  margin-top: 1 0px;
+  margin-left: 85%;
+}
+.Nov button {
+  padding: 10px 25px;
+  border: #c53720 4px solid;
+  background: none;
+  color: #c53720;
+  font-size: 14px;
+  font-weight: 700;
+}
+.Button {
+  text-align: center;
+  margin-top: 72px;
+}
+.img25 {
+  margin-left: 95%;
+  margin-top: -50px;
+}

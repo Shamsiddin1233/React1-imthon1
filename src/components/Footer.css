@@ -1,0 +1,52 @@
+.Footer {
+  width: 100%;
+  height: 342px;
+  background: rgb(7, 7, 7, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Bg3 {
+  width: 100%;
+  height: 342px;
+  background: url("../assets/img31.png");
+}
+table {
+  width: 70%;
+  text-align: start;
+}
+th {
+  color: white;
+  text-align: left;
+}
+td {
+  color: rgb(139, 139, 139);
+}
+.Footer-box > p {
+  color: rgb(139, 139, 139);
+  margin-top: 50px;
+}
+.Footer-box2 > h3 {
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 20px;
+}
+.Footer-box2 > p {
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 20px;
+}
+.Footer-box2 {
+  margin-top: -50px;
+}
+.Footer-box2 > button {
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 20px;
+  background: none;
+  padding: 10px 25px;
+  border: 5px solid #c53720;
+}

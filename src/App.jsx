@@ -4,7 +4,7 @@ import Hero from "./components/Hero.jsx";
 import Cards from "./components/Cards.jsx";
 import Pro from "./components/Pro.jsx";
 import Usluga from "./components/Usluga.jsx";
-import Kom from "./components/kom.jsx";
+import Kom from "./components/Kom.jsx";
 import Nov from "./components/Nov.jsx";
 import Logo from "./components/logo.jsx";
 import Footer from "./components/Footer.jsx";

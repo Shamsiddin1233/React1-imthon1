@@ -1,9 +1,8 @@
 import "./Kom.css";
 import img21 from "../assets/img21.png";
-
-import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { useEffect } from "react";
 function Kom() {
   useEffect(() => {
     AOS.init({

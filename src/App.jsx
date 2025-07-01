@@ -6,7 +6,7 @@ import Pro from "./components/Pro.jsx";
 import Usluga from "./components/Usluga.jsx";
 import Kom from "./components/Kom.jsx";
 import Nov from "./components/Nov.jsx";
-import Logo from "./components/logo.jsx";
+import Logo from "./components/Logo.jsx";
 import Footer from "./components/Footer.jsx";
 import Korzina from "./components/Korzina.jsx";
 
